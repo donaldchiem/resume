@@ -4,9 +4,10 @@ This repository contains my professional resume, maintained using Markdown, Git,
 
 ## Purpose
 
+- Maintain my professional resume in Markdown
+- Track revisions using Git version control
+- Export a polished PDF for job applications
 - Practice Git and GitHub workflows
-- Track resume changes with version control
-- Maintain a clean, professional resume that can be exported to PDF
 
 ## Repository Structure
 
